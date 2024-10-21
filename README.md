@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Manuel Luvuvamo</h1>
-<h3 align="center">A Software developer, trainer and occasional writer with a solid experience in the creation, integration and extensibility of web applications.</h3>
+<h1 align="left">Hi 👋, I'm Manuel Luvuvamo</h1>
+<h3 align="left">A Software developer, trainer and occasional writer with a solid experience in the creation, integration and extensibility of web applications.</h3>
 
 
 
