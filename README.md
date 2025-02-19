@@ -83,6 +83,27 @@
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank"> 
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql server" width="40" height="40"/> 
+</a> 
+<a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+</a> 
+<a href="https://phpunit.de/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Phpunit-logo.svg" alt="phpunit" width="40" height="40"/> 
+</a> 
+<a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+</a> 
+<a href="https://www.scrum.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_Framework.png" alt="scrum" width="40" height="40"/> 
+</a> 
+<a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
 </p>
 
 
